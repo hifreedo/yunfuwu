@@ -16,11 +16,9 @@
 title: up9rade
 #email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  A variety of computer science/maching learning, personal hobbies, career experience, across with learning to learn.
-  Thoughts only on my own.
-  关于学习的学习，计算机、个人兴趣以及工作经历的想法。未经许可，不得转载。
+  Mainly aim at learning and deep learning.
 baseurl: / 
-url: "http://up9rade.com"
+url: "http://yunfuwu.net"
 #twitter_username: 
 #github_username:  
 
