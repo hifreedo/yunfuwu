@@ -8,6 +8,8 @@ tags: [derivative]
 
 ## 核心
 
+* The core is derivative *
+
 在MS的时候，以前经常问候选人的傻瓜测试问题是：
 如何用通俗的语言，简单几句话向小学生介绍什么是数据库？
 
