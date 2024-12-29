@@ -33,5 +33,3 @@ exclude:
   - scripts/
   - README.md
   - jekyll-theme-hamilton.gemspec
-
-logo: logo.png
