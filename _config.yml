@@ -2,6 +2,7 @@ title: yunfuwu
 #email: 
 description: >- 
   Mainly aim at learning and deep learning.
+avatar: /logo.png
 baseurl: / 
 url: "http://yunfuwu.net"
 #twitter_username: 
@@ -32,3 +33,5 @@ exclude:
   - scripts/
   - README.md
   - jekyll-theme-hamilton.gemspec
+
+logo: logo.png

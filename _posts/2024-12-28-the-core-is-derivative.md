@@ -2,7 +2,7 @@
 layout: post
 toc: true
 title: "深度学习的最核心"
-categories: deep learning
+categories: deep_learning
 tags: [derivative]
 ---
 
