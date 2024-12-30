@@ -17,11 +17,11 @@ layout: default
       {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
       <li>
-        <h4>
+        <h3>
           <a href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-        </h4>
+        </h3>
         <p class="post-meta">
           <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
             {{ post.date | date: date_format }}

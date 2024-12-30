@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "社交"
+title: "光线、手机和压力"
 categories: learning
 tags: [brain]
 ---
