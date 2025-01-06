@@ -278,7 +278,7 @@ ul.social-icons {
 
 .toc-nav {
   max-height: 70vh;
-  overflow-y: scroll;
+//   overflow-y: scroll;
   border: 1px solid;
   border-top: 0px;
   border-radius: 0 0 0.3em 0.3em;
@@ -321,7 +321,7 @@ ul.social-icons {
  */
 .site-main {
   flex: 1 0 auto;
-  overflow-y: scroll;
+//   overflow-y: scroll;
 
   // Hide scrollbar for IE, Edge and Firefox
 //   -ms-overflow-style: none;  // IE and Edge
