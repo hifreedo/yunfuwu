@@ -1,7 +1,7 @@
 ---
 layout: post
 math: true
-title: "Deep Learning to Junior Middle School"
+title: "Deep Learning to Junior High School"
 categories: deep_learning
 tags: [derivative]
 ---
