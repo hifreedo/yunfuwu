@@ -1,6 +1,6 @@
 ---
 layout: post
-toc: true
+math: true
 title: "Deep Learning to Junior Middle School"
 categories: deep_learning
 tags: [derivative]

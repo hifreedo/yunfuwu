@@ -1,6 +1,5 @@
 ---
 layout: post
-toc: true
 title: "My History of Computer"
 categories: engineering
 tags: [brain, LLM]

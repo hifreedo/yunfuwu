@@ -1,6 +1,5 @@
 ---
 layout: post
-toc: true
 title: "A Step Forward Every Day"
 categories: social
 tags: [chit-chat]

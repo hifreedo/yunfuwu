@@ -1,6 +1,5 @@
 ---
 layout: post
-toc: true
 title: "New Year Eve"
 categories: social
 tags: [chit-chat]

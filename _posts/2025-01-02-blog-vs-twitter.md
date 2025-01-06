@@ -1,6 +1,5 @@
 ---
 layout: post
-toc: true
 title: "Blog VS Twitter"
 categories: social
 tags: [chit-chat]

@@ -1,6 +1,5 @@
 ---
 layout: post
-toc: true
 title: "repr and str"
 categories: engineering
 tags: [python]

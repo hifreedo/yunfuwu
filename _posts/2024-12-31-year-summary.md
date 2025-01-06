@@ -1,6 +1,5 @@
 ---
 layout: post
-toc: true
 title: "Year Summary"
 categories: social
 tags: [chit-chat]

@@ -1,6 +1,5 @@
 ---
 layout: post
-toc: true
 title: "学习的开端"
 categories: learning
 tags: [brain]

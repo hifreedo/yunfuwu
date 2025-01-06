@@ -1,6 +1,5 @@
 ---
 layout: post
-toc: true
 title: "Human Body Machine"
 categories: body
 tags: [chit-chat]
