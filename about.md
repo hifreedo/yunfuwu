@@ -17,8 +17,8 @@ permalink: /about/
 
 对本站点的内容来源出处渊源颇深的Domain expert, influencer and contributor:
 
-来自于斯坦福大学的[Dr. Andrew Huberman](https://www.hubermanlab.com/)
+OpenAI创始成员[Andrej Karpathy](https://eurekalabs.ai/)
 
-以及前OpenAI创始成员之一[Andrej Karpathy](https://eurekalabs.ai/)
+以及[Dr. Andrew Huberman](https://med.stanford.edu/profiles/andrew-huberman)
 
 其余无法一一补充和列明。

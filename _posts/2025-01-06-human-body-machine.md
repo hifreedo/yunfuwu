@@ -2,7 +2,7 @@
 layout: post
 title: "Human Body Machine"
 categories: body
-tags: [chit-chat]
+tags: [chit-chat, exercise]
 ---
 
 昨天在健身房做深蹲，被旁边的人指点了一下。他说按我的方式做深蹲，可能会让腰部承受较大的压力。

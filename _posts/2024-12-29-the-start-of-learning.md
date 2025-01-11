@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "学习的开端"
+title: "The Start of Learning"
 categories: learning
 tags: [brain]
 ---
 
-* The start of learning
+* 学习的开端
 
 出生的时候，人的一生当中可用的神经元的数量，基本已经确定。所以这一部分有宿命论的味道。
 

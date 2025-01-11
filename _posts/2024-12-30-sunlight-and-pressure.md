@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "光线、手机和压力"
+title: "Light、Cellphone and Pressure"
 categories: learning
 tags: [brain]
 ---
