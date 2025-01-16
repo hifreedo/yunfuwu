@@ -2,7 +2,7 @@
 layout: post
 title: "Pressure and Memory"
 categories: learning
-tags: [brain]
+tags: [brain, memory, pressure]
 ---
 
 压力和记忆
