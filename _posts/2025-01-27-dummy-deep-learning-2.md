@@ -153,11 +153,11 @@ Learning rate 学习率决定了图中红线移动的速度和幅度，相对小
 
 通过把训练的过程可视化，我们还可以观察到更多有意思的现象，比如，在训练中我们对于权重的表达式：
 
-Weight += error *learing_rate* input
+Weight += error * learing_rate * input
 
 为什么使用“ += ” 进行累加，如果把其中的 “+” 号移除，会发生什么？
 
-Weight = error *learning_rate* input
+Weight = error * learning_rate * input
 
 下面的动图就是移除+号以后的训练过程，观察图中“红线”的移动路径：
 
