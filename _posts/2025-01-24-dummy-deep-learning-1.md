@@ -6,7 +6,7 @@ categories: deep_learning
 tags: [hands-on]
 ---
 
-# 手撸神经网络
+# 手撸神经网络 (1)
 
 ## 单个感知机
 
