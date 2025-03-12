@@ -2,10 +2,10 @@
 layout: post
 title: "Coding Agent"
 categories: engineering
-tags: [coding]
+tags: [coding, coding-agent]
 ---
 
-直到此刻目前为止，Coding Agent 从事稍有复杂度的线上工程还是不行的，无论是 Copilot, Cursor 还是windsurf。
+直到当前为止，Coding Agent 从事稍有复杂度的线上工程还是不行的，无论是 Copilot, Cursor 还是windsurf。
 三个agent都有使用过，如果项目管理的代码行数超过3千行（不包括三方包和库在内），无论哪个agent都是力不从心，使用起来犹如钝刀割肉。
 
 有些产品经理拍视频称，在自己敲0代码的基础上，做出了一个软硬件结合的复杂应用。那是一个demo，上不了线。
