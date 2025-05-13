@@ -1,5 +1,6 @@
 ---
 layout: post
+math: true
 title: "A Physics Class About Free Mind"
 categories: physics
 tags: [chit-chat, physics, learning]
