@@ -398,7 +398,7 @@ ul.social-icons {
 
   li {
     float: left;
-    margin: 5px 15px 5px 0;
+    margin: 5px 8px 5px 0;
 
     &:last-of-type { margin-right: 0 }
 
@@ -409,6 +409,41 @@ ul.social-icons {
       min-width: 41px;
       text-align: center;
       box-sizing: border-box;
+      text-decoration: none;
+      transition: all 0.2s ease;
+    }
+
+    a.page-link {
+      color: $link-base-color;
+      border-color: $border-color-01;
+      
+      &:hover {
+        background-color: $link-base-color;
+        color: $background-color;
+        border-color: $link-base-color;
+      }
+    }
+
+    a.previous-page, a.next-page {
+      font-weight: 500;
+      color: $link-base-color;
+      border-color: $border-color-01;
+      padding-left: $spacing-unit / 3;
+      padding-right: $spacing-unit / 3;
+      min-width: auto;
+      
+      &:hover {
+        background-color: $link-base-color;
+        color: $background-color;
+        border-color: $link-base-color;
+      }
+    }
+
+    div.current-page {
+      background-color: $link-base-color;
+      color: $background-color;
+      border-color: $link-base-color;
+      font-weight: bold;
     }
   }
 }

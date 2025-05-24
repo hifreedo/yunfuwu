@@ -19,6 +19,7 @@ plugins:
   - jekyll-seo-tag
 
 paginate: 10
+paginate_path: "/page:num/"
 
 # Exclude from processing.
 # exclude:
