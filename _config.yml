@@ -1,13 +1,13 @@
 title: freedo
-#email: 
-description: >- 
+#email:
+description: >-
   Mainly aim at learning and deep learning.
 author: freedo
 avatar: /logo.png
-baseurl: "" # Leave empty for root domain 
+baseurl: "" # Leave empty for root domain
 url: "http://freedo.site"
-#twitter_username: 
-#github_username:  
+#twitter_username:
+#github_username:
 
 # Build settings
 markdown: kramdown
