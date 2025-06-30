@@ -46,17 +46,7 @@ layout: default
             <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">‹ Previous</a></li>
           {%- endif %}
           
-          {%- for page in (1..paginator.total_pages) %}
-            {%- if page == paginator.page %}
-              <li><div class="current-page">{{ page }}</div></li>
-            {%- else %}
-              {%- if page == 1 %}
-                <li><a href="{{ '/' | relative_url }}" class="page-link">{{ page }}</a></li>
-              {%- else %}
-                <li><a href="{{ site.paginate_path | replace: ':num', page | relative_url }}" class="page-link">{{ page }}</a></li>
-              {%- endif %}
-            {%- endif %}
-          {%- endfor %}
+          <li><div class="current-page">{{ paginator.page }}</div></li>
           
           {%- if paginator.next_page %}
             <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">Next ›</a></li>
