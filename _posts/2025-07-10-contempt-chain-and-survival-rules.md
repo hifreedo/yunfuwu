@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aging with Tennis"
+title: "Tennis Contempt Chain and Survival Rules"
 categories: body
 tags: [chit-chat, exercise, tennis, will]
 ---
