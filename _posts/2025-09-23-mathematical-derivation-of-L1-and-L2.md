@@ -57,7 +57,11 @@ $$ \frac{\partial MSE}{\partial w_j} = -\frac{2}{n}\sum_{i=1}^n (y_i - \hat{y}_i
 
 $$ \text{Loss} = MSE + \lambda(|w_1| + |w_2| + |w_3|) $$
 
-由于我们只关心某个特定权重 $|w_j|$ 的梯度，其他权重的导数为零，因此有：
+由于我们只关心某个特定权重
+
+$$|w_j|$$
+
+ 的梯度，其他权重的导数为零，因此有：
 
 $$ \frac{\partial \text{Loss}}{\partial w_j} = \frac{\partial MSE}{\partial w_j} + \lambda \cdot \text{sign}(w_j) $$
 
@@ -80,7 +84,12 @@ $$ w_j = w_j - \eta \left( \frac{\partial MSE}{\partial w_j} + \lambda \cdot \te
 
 而对于在0附近震荡的权重，这也意味着这些权重对于模型的贡献非常小，因此也不难理解，从计算效率的角度看，可以通过设置软阈值的方式，将这些权重直接置为0。
 
-在实际操作中，如果权重 $|\frac{\partial MSE}{\partial w_j}|$ 小于 $\lambda$，我们可以直接将其设置为0：
+在实际操作中，如果权重
+
+$$|\frac{\partial MSE}{\partial w_j}|$$
+
+ 小于 $\lambda$，我们可以直接将其设置为0：
+
 $$ w_j = 0 \quad \text{if } |\frac{\partial MSE}{\partial w_j}| < \lambda $$
 
 经过梯度更新和软阈值处理的共同作用，形成两种情况：
